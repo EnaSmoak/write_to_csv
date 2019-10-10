@@ -1,2 +1,4 @@
 # ignore data file
+.__pycache__
+.vscode/
 test_data.csv
